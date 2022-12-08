@@ -1,0 +1,12 @@
+\yolov5-master
+
+\dataset
+--\fire
+----\train
+--------\images
+--------\labels
+----\val
+--------\images
+--------\labels
+
+
